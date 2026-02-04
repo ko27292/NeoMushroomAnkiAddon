@@ -1,0 +1,708 @@
+{
+    "gardenPositions": {
+        "10001_Normal_Garden.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        50,
+                        90
+                    ],
+                    520,
+                    80
+                ],
+                [
+                    [
+                        180,
+                        300
+                    ],
+                    520,
+                    80
+                ]
+            ]
+        },
+        "10002_Grassy_Green.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        20,
+                        40
+                    ],
+                    480,
+                    80
+                ],
+                [
+                    [
+                        20,
+                        240
+                    ],
+                    480,
+                    80
+                ]
+            ]
+        },
+        "10003_Fancy_Garden.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        100,
+                        40
+                    ],
+                    480,
+                    80
+                ],
+                [
+                    [
+                        100,
+                        260
+                    ],
+                    480,
+                    80
+                ]
+            ]
+        },
+        "10004_Neo_Factory.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        160,
+                        60
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        160,
+                        280
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10005_Fantastic_Feast.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        100,
+                        20
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        100,
+                        240
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10006_Beached_Shore.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        20,
+                        40
+                    ],
+                    480,
+                    80
+                ],
+                [
+                    [
+                        260,
+                        260
+                    ],
+                    320,
+                    80
+                ]
+            ]
+        },
+        "10007_Frisky_Field.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        100,
+                        30
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        100,
+                        130
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        100,
+                        260
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10008_Hush_Hospital.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        100,
+                        200
+                    ],
+                    320,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        440
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10009_Merry_Christmas.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        40
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        280
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10010_Funghi_New_Year.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                    80,
+                    80
+                    ],
+                400,
+                80
+                ],
+                [
+                    [
+                    160,
+                    320
+                    ],
+                240,
+                80
+                ]
+            ]
+        },
+        "10011_Nightly_Cloud.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                    [
+                        80,
+                        80
+                    ],
+                    400,
+                    120
+            ]
+        },
+        "10012_Funghi_Circus.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                    [80, 
+                    240
+                    ],
+                    400,
+                    80
+            ]
+        },
+        "10014_Fung-Sea_Castle.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        40
+                    ],
+                    320,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        40
+                    ],
+                    320,
+                    80 
+            ]
+            ]
+        },
+        "10016_Funghi_Mine.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        40
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        320
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10017_Funghi_Onsen.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        240
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        160,
+                        520
+                    ],
+                    320,
+                    120
+                ]
+            ]
+        },
+        "10018_Funghi_Hinadan.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        220
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        360
+                    ],
+                    400,
+                    120
+                ]
+            ]
+        },
+        "10021_Riverside_Camping.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        240,
+                        80
+                    ],
+                    320,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        240
+                    ],
+                    320,
+                    80
+                ]
+            ]
+        },
+        "10022_Cafe_d'Funghi.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        240
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        680
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10023_Sweet_Love_Choco.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                    [
+                        80,
+                        240
+                    ],
+                    400,
+                    160
+            ]
+        },
+        "10024_Funghi_Castle.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        160,
+                        440
+                    ],
+                    240,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        640
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10025_Ghostly_Bridge.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                    [
+                        80,
+                        360
+                    ],
+                    400,
+                    120
+            ]
+        },
+        "10026_Fung_Toy_Box.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    80,
+                    600
+                ],
+                400, 
+                120
+            ]
+        },
+        "10027_Hydrangea_Park.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    80,
+                    460
+                ],
+                400,
+                80
+            ]
+        },
+        "10028_Milky_Way.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    80,
+                    240
+                ],
+                400,
+                160
+            ]
+        },
+        "10029_Arabian_Desert.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    80,
+                    240
+                ],
+                400,
+                160
+            ]
+        },
+        "10031_New_Year_Feast.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    120,
+                    480
+                ],
+                400,
+                120
+            ]
+        },
+        "10032_Dream_Land.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    80,
+                    320
+                ],
+                400,
+                160
+            ]
+        },
+        "10033_Idol_Stage.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    80,
+                    440
+                ],
+                400,
+                120
+            ]
+        },
+        "10035_Funghi_Prison.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                    80,
+                    280
+                    ],
+                    320, 
+                    80
+                ],
+                [
+                    [
+                    80,
+                    720
+                    ],
+                    400,
+                    40
+                ]
+            ]
+        },
+        "10037_Redbrick_Garden.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        320
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        520
+                    ],
+                    400,
+                    80
+                ]
+            ]
+        },
+        "10038_Old_Funghi_Estate.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    180,
+                    360
+                ],
+                240,
+                200
+            ]
+        },
+        "10039_Funghi_Laundry.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+            [
+                [
+                    80,
+                    280
+                ],
+                400,
+                80
+            ],
+            [
+                [
+                    80,
+                    440
+                ],
+                400,
+                80
+            ]
+            ]
+        },
+        "10041_Spicy_Kingdom.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        310,
+                        240
+                    ],
+                    80,
+                    40
+                ],
+                [
+                    [
+                        160,
+                        360
+                    ],
+                    320,
+                    160
+                ]
+            ]
+        },
+        "50001_Funghi_Heroes.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+            [
+                [
+                    0,
+                    240
+                ],
+                320,
+                80
+            ],
+            [
+                [
+                    0,
+                    440
+                ],
+                320,
+                80
+                ]
+            ]
+        },
+        "50011_Nostalgic_Home.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        360
+                    ],
+                    320,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        520
+                    ],
+                    400,
+                    120
+                ]
+            ]
+        },
+        "50021_Chara_Pafe_Cafe.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        100,
+                        120
+                    ],
+                    320,
+                    80
+                ],
+                [
+                    [
+                        180,
+                        330
+                    ],
+                    320,
+                    80
+                ]
+            ]
+        },
+    "50031_Tohato_Paradise.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        90,
+                        240
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        40,
+                        360
+                    ],
+                    80,
+                    80
+                ],
+                [
+                    [
+                        470,
+                        360
+                    ],
+                    80,
+                    80
+                ]
+            ]
+        },
+        "50051_Funghi_Forest.webp": {
+            "hasMulti": true,
+            "spawnAreas": [
+                [
+                    [
+                        80,
+                        220
+                    ],
+                    400,
+                    80
+                ],
+                [
+                    [
+                        80,
+                        520
+                    ],
+                    400,
+                    120
+                ]
+            ]
+        },
+        "50071_Funghi_Roll_Cakes.webp": {
+            "hasMulti": false,
+            "spawnArea": [
+                [
+                    80,
+                    600
+                ],
+                400,
+                120
+            ]
+        }
+    }
+}
